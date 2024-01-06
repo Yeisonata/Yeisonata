@@ -6,7 +6,7 @@ Estudiante de Ingeniería en Software
 
 Estudiante de ingeniería en software. Especializado en desarrollo backend con Node.js y TypeScript, HTML, CSS, JavaScript y MySQL.
 
-* 🌍  Basado en Pereira-Colombia
+* 🌍  Vivo en Pereira-Colombia
 * ✉️  Puedes contactarme en [tobon055@gmail.com](mailto:tobon055@gmail.com)
 * 🚀  Actualmente trabajando en [E-commerce](http://github.com/Yeisonata/ProyectoU-Backend-Grado)
 * 🧠  Estoy aprendiendo TypeScript e Inglés
