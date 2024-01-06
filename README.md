@@ -1,10 +1,10 @@
 ¡Hola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Yeison Tobón
 ====================================================================================================================================
 
-Estudiante de Ingeniería en Software
+Estudiante de Ingeniería de Software
 -------------------------
 
-Estudiante de ingeniería en software. Especializado en desarrollo backend con Node.js y TypeScript, HTML, CSS, JavaScript y MySQL.
+Soy estudiante de ingeniería en software, especializado en el desarrollo backend con Node.js y TypeScript, HTML, CSS, JavaScript y MySQL.
 
 * 🌍  Vivo en Pereira-Colombia
 * ✉️  Puedes contactarme en [tobon055@gmail.com](mailto:tobon055@gmail.com)
