@@ -8,7 +8,6 @@ Soy estudiante de ingeniería en software, especializado en el desarrollo backen
 
 * 🌍  Vivo en Pereira-Colombia
 * ✉️  Puedes contactarme en [tobon055@gmail.com](mailto:tobon055@gmail.com)
-* 🚀  Actualmente trabajando en [E-commerce](http://github.com/Yeisonata/ProyectoU-Backend-Grado)
 * 🧠  Estoy aprendiendo TypeScript e Inglés
 
 ### Habilidades
