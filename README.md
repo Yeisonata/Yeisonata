@@ -1,6 +1,8 @@
 ¡Hola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Yeison Tobón
 ====================================================================================================================================
-
+<p align="center">
+<img width="600" src="assets/github-snake.svg" />
+</p>
 
 Estudiante de Ingeniería de Software
 -------------------------
